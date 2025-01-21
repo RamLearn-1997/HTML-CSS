@@ -11,3 +11,4 @@ JS giving funtionality for the web
 lesson
 1. [HTML Tags](./HTML/tags.html)
 2. [News Article](./HTML/newsarticle.html)
+3. [Image Tags](./HTML/imagetag.html)
