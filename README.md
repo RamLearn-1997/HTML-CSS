@@ -14,4 +14,5 @@ lesson
 3. [Image Tags](./HTML/imagetag.html)
 4. [Nesting](./HTML/nesting.html)
 5. [Interactive Element - Button](./HTML/interactivebutton.html)
-5. [Interactive Element - input tag](./HTML/interactiveinput.html)
+6. [Interactive Element - input tag](./HTML/interactiveinput.html)
+7. [Let's Build Google](./HTML/letbuildgoogle.html)
