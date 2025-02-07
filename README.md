@@ -16,3 +16,4 @@ lesson
 5. [Interactive Element - Button](./HTML/interactivebutton.html)
 6. [Interactive Element - input tag](./HTML/interactiveinput.html)
 7. [Let's Build Google](./HTML/letbuildgoogle.html)
+8. [Aside - Anchor Tags](./HTML/anchortags.html)
