@@ -17,3 +17,5 @@ lesson
 6. [Interactive Element - input tag](./HTML/interactiveinput.html)
 7. [Let's Build Google](./HTML/letbuildgoogle.html)
 8. [Aside - Anchor Tags](./HTML/anchortags.html)
+9. [Proper Document Structure](./HTML/properdocument.html)
+10. [Aside : Lists](./HTML/asidelist.html)
