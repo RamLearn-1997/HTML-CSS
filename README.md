@@ -19,3 +19,4 @@ lesson
 8. [Aside - Anchor Tags](./HTML/anchortags.html)
 9. [Proper Document Structure](./HTML/properdocument.html)
 10. [Aside : Lists](./HTML/asidelist.html)
+11. [Personal Website](./HTML/personalwebsite.html)
