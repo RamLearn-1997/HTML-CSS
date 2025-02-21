@@ -9,6 +9,7 @@ JS giving funtionality for the web
 
 
 lesson
+HTML
 1. [HTML Tags](./HTML/tags.html)
 2. [News Article](./HTML/newsarticle.html)
 3. [Image Tags](./HTML/imagetag.html)
@@ -20,3 +21,6 @@ lesson
 9. [Proper Document Structure](./HTML/properdocument.html)
 10. [Aside : Lists](./HTML/asidelist.html)
 11. [Personal Website](./HTML/personalwebsite.html)
+CSS
+12. [First Line of CSS](./CSS/firstcss.css)
+13. [Wikipedia](./CSS/wiki.css)
